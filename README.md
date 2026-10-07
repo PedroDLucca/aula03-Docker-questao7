@@ -1,0 +1,1 @@
+![Docker Build](https://github.com/PedroDLucca/aula03-Docker-questao7/actions/workflows/docker-build-push.yml/badge.svg)
